@@ -5,6 +5,7 @@ This is an API with some basic nutritional data on raw fruits and vegetables.
 * Rails 6.0.0
 
 Rails file created via command line with 'rails new juice-api --api'
+
 Note: cors file set to accept requests from any origin
 
 * To Initialize Database
